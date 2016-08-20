@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "bcmacrofunctions": "dev-master"
+            "bcmacrofunctions": "src/"
         }
     }
 }
